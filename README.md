@@ -3,4 +3,4 @@
 
 | topic         | live URLS |
 |---------------|-----------|
-| read02        | [link](https://zeinab1233.github.io/reading-notes/read02)
+| read02        | [link](https://zeinab1233.github.io/201-reading-notes/classo1)

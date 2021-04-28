@@ -1,4 +1,5 @@
 ## *my name is zainab albadareen i am a mother of two and i am a chemist from just interested in computational chemistry  and solve chemical issues using computer and i am interested in coding*
+> here are the table of the daily reading links
 
 
 | topic         | live URLS |
